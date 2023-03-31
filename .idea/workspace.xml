@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44e1bdfd-d2af-4276-981d-6b13d01c4187" name="Changes" comment="ampliacion del archivo Testcoche, nueva clase con velocidad">
-      <change beforePath="$PROJECT_DIR$/tests/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Coche.java" afterDir="false" />
+    <list default="true" id="44e1bdfd-d2af-4276-981d-6b13d01c4187" name="Changes" comment="creacion metodo decelerar">
       <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680247974429</updated>
-      <workItem from="1680247978539" duration="1787000" />
+      <workItem from="1680247978539" duration="2206000" />
     </task>
     <task id="LOCAL-00001" summary="añadido de directorio test y clase testcoche">
       <created>1680248722966</created>
@@ -97,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680249492831</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creacion del metodo acelerar y test pasado">
+      <created>1680249855393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680249855393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creacion metodo decelerar">
+      <created>1680250069303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250069303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +131,8 @@
     <MESSAGE value="añadido de directorio test y clase testcoche" />
     <MESSAGE value="test coche hecho" />
     <MESSAGE value="ampliacion del archivo Testcoche, nueva clase con velocidad" />
-    <option name="LAST_COMMIT_MESSAGE" value="ampliacion del archivo Testcoche, nueva clase con velocidad" />
+    <MESSAGE value="creacion del metodo acelerar y test pasado" />
+    <MESSAGE value="creacion metodo decelerar" />
+    <option name="LAST_COMMIT_MESSAGE" value="creacion metodo decelerar" />
   </component>
 </project>
