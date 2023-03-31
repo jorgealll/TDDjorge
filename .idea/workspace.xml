@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44e1bdfd-d2af-4276-981d-6b13d01c4187" name="Changes" comment="test coche hecho">
+    <list default="true" id="44e1bdfd-d2af-4276-981d-6b13d01c4187" name="Changes" comment="ampliacion del archivo Testcoche, nueva clase con velocidad">
       <change beforePath="$PROJECT_DIR$/tests/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Coche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCoche.java" afterDir="false" />
     </list>
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680247974429</updated>
-      <workItem from="1680247978539" duration="1443000" />
+      <workItem from="1680247978539" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="añadido de directorio test y clase testcoche">
       <created>1680248722966</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680249161599</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ampliacion del archivo Testcoche, nueva clase con velocidad">
+      <created>1680249492831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680249492831</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="añadido de directorio test y clase testcoche" />
     <MESSAGE value="test coche hecho" />
-    <option name="LAST_COMMIT_MESSAGE" value="test coche hecho" />
+    <MESSAGE value="ampliacion del archivo Testcoche, nueva clase con velocidad" />
+    <option name="LAST_COMMIT_MESSAGE" value="ampliacion del archivo Testcoche, nueva clase con velocidad" />
   </component>
 </project>
